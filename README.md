@@ -1,2 +1,3 @@
 # translation-tool
-language translation app built using fastapi
+A translation tool using fastapi
+(yes this is a GPT wrapper)
