@@ -1,0 +1,6 @@
+fastapi
+sqlalchemy
+openai
+alembic
+python-dotenv
+jinja2
